@@ -1,0 +1,3 @@
+## Automated bitcoin purchasing bot
+
+This Python-based solution runs on AWS Lambda and automates Bitcoin purchases using the Coinbase API. The Python script is triggered by AWS EventBridge at predefined intervals or based on custom events. It securely connects to the Coinbase API, retrieves the current market price, and executes a purchase order. The lightweight script is designed for efficient performance, ensuring low-cost operation and seamless integration with AWS services, providing a scalable, serverless cryptocurrency purchasing system.
